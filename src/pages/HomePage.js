@@ -94,7 +94,7 @@ const HomePage = () => {
       <section className="text-white py-10 text-center m-">
 
         
-        <h1 className="text-4xl font-bold mt-4">Welcome to ShopWay</h1>
+        <h1 className="text-4xl font-bold mt-4">Welcome to Ayodhya deals</h1>
         <p className="text-lg mb-6">Explore the best products at unbeatable prices. Shop Now!</p>
         <Link
           to="/products"
